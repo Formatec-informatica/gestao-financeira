@@ -6,7 +6,7 @@ Aplicativo para Windows que controla as **entradas** (vendas) e as **saídas** (
 busca, recibos, relatórios em PDF e planilhas do Excel geradas automaticamente. Tem dois modos, com dados
 separados: **🏢 Empresa** e **🏠 Familiar** (as finanças da casa).
 
-**Versão atual: 1.0.0** (a numeração recomeçou; a versão anterior era a 1.3.14)
+**Versão atual: 1.0.1** (20/11/2026): idiomas (Português, English, Español), sons e Sobre no botão Versão
 
 ## Download
 
@@ -19,7 +19,7 @@ A versão mais recente fica na pasta [`versao`](versao):
 
 O SHA-256 de cada arquivo está em [`versao/SHA256SUMS.txt`](versao/SHA256SUMS.txt).
 
-**Atualização automática:** a partir da 1.0.0, o programa procura versão nova ao abrir, baixa, confere e instala sozinho quando estiver livre, sem mexer nos seus dados. Quem tem a 1.3.14 ou anterior precisa instalar a 1.0.0 uma vez, por cima (os dados ficam). Para desligar: **Ferramentas > 🔄 Atualizações**.
+**Atualização automática:** a partir da 1.0.0, o programa procura versão nova ao abrir, baixa, confere e instala sozinho quando estiver livre, sem mexer nos seus dados. Quem tem a 1.3.14 ou anterior precisa instalar a 1.0.0 uma vez, por cima (os dados ficam). Para desligar ou procurar na hora: botão **🔖 Versão** (ou **Ferramentas > 🔄 Sobre e atualizações**).
 
 **Requisitos:** Windows 10 ou 11, 64 bits.
 

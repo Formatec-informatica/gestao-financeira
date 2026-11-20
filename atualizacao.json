@@ -1,13 +1,13 @@
 {
-  "versao": "1.0.0",
+  "versao": "1.0.1",
   "data": "20/11/2026",
-  "notas": "Gestão Financeira 1.0.0 (numeração reiniciada; a anterior era a 1.3.14)\n- Atualização automática: as próximas versões chegam sozinhas\n- Telas ajustadas para notebook: nada mais cortado e janelas com rolagem\n- Impressão no estilo do Word, também nos recibos, na entrega e nas listas",
+  "notas": "Gestão Financeira 1.0.1\n- Idiomas: Português, English e Español, com as bandeiras\n- Sons nos cliques, abas, meses, menus e avisos (botão 🔊 para ligar/desligar)\n- Botões de idioma e som com a janela maximizada (no modo Familiar, sempre)\n- Sobre e atualizações dentro do botão 🔖 Versão",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "29db53ddb67ae26a583330e1c3e849c8db0a4483205e615ae8365469b5a8478f"
+    "sha256": "6e0b1d218b421487750eb2fd97e1847972027b55e763eb70f84a83f02f8b0cfe"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "63cd258ccdfb47b0301ae7d59f800ea50ec50b90ff0e2cd49c6f33053111072e"
+    "sha256": "53fe2c44cbbfaf6b5741ffd385acb61c4209bc0457eea3f550ad4e85902879e9"
   }
 }
