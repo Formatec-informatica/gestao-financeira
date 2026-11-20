@@ -6,7 +6,7 @@ Aplicativo para Windows que controla as **entradas** (vendas) e as **saídas** (
 busca, recibos, relatórios em PDF e planilhas do Excel geradas automaticamente. Tem dois modos, com dados
 separados: **🏢 Empresa** e **🏠 Familiar** (as finanças da casa).
 
-**Versão atual: 1.3.14**
+**Versão atual: 1.0.0** (a numeração recomeçou; a versão anterior era a 1.3.14)
 
 ## Download
 
@@ -18,6 +18,8 @@ A versão mais recente fica na pasta [`versao`](versao):
 | [GestaoFinanceira_Portatil.exe](https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe) | Versão portátil: um arquivo só, sem instalar. Os dados ficam na mesma pasta do programa |
 
 O SHA-256 de cada arquivo está em [`versao/SHA256SUMS.txt`](versao/SHA256SUMS.txt).
+
+**Atualização automática:** a partir da 1.0.0, o programa procura versão nova ao abrir, baixa, confere e instala sozinho quando estiver livre, sem mexer nos seus dados. Quem tem a 1.3.14 ou anterior precisa instalar a 1.0.0 uma vez, por cima (os dados ficam). Para desligar: **Ferramentas > 🔄 Atualizações**.
 
 **Requisitos:** Windows 10 ou 11, 64 bits.
 
@@ -42,6 +44,7 @@ O SHA-256 de cada arquivo está em [`versao/SHA256SUMS.txt`](versao/SHA256SUMS.t
 **Documentos**
 - 🧾 **Recibos** e **recibo de entrega** em PDF, com a sua logo e assinatura digital.
 - 📄 **Relatórios em PDF** do dia, do mês, do ano, por cliente e por fornecedor, e comparativo entre períodos.
+- 🖨️ **Impressão no estilo do Word**: escolha da impressora, páginas, frente e verso, papel, margens e prévia das páginas, nos relatórios, recibos e listas.
 - 📊 **Planilhas do Excel** de cada mês, atualizadas a cada lançamento, além de importar e exportar.
 
 ## Segurança dos dados
