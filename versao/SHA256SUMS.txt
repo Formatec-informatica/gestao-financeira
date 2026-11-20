@@ -1,0 +1,2 @@
+3d9b77acbc6136f7facbfccde4a407a3d32e9e0832ff03983f249f4c256fe31e  Instalador_GestaoFinanceira.exe
+3d97aa624ce72b1725ff454424cd1bd11277e4a5220014e0585c65156615f36a  GestaoFinanceira_Portatil.exe
