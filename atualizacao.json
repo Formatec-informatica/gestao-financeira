@@ -1,13 +1,13 @@
 {
-  "versao": "1.0.4",
+  "versao": "1.0.5",
   "data": "21/11/2026",
-  "notas": "Gestão Financeira 1.0.4\n- Janelas abrem no centro do programa e acompanham o programa ao mover, com ícones coloridos\n- Botão para instalar a atualização em Sobre e atualizações\n- Redes sociais numa linha, com o logo da Formatec no Site\n- Código de recuperação inteiro na tela, com botão Imprimir",
+  "notas": "Gestão Financeira 1.0.5\n- Guia de uso: botão Salvar ou imprimir (o guia inteiro ou só um assunto)\n- Computador principal: fechar no X deixa o programa perto do relógio atendendo os terminais\n- Rede: clique para copiar o nome, os endereços (IP) e o código de conexão\n- Correção do erro ao entrar e ao lançar vendas; ícone do WhatsApp sem fundo branco",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "24ab2f53d59afd6a9c83e35c3f19e013474137a3acc9fab50c7951268aba69bb"
+    "sha256": "f94b089a9fcb6f5d1b251084c6554ec37d85c29ba14fd4adf5ce41780426cad8"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "58cb9bd3faf599b9c1b548e035f0b6b4c752c0909f34c047b391c9776f37a331"
+    "sha256": "c81dcd27658628a7f98288b9e1516fe55074cb14a25833b0fdce89c5da07dd6d"
   }
 }
