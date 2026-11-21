@@ -4,10 +4,10 @@
   "notas": "Gestão Financeira 1.0.4\n- Janelas abrem no centro do programa e acompanham o programa ao mover, com ícones coloridos\n- Botão para instalar a atualização em Sobre e atualizações\n- Redes sociais numa linha, com o logo da Formatec no Site\n- Código de recuperação inteiro na tela, com botão Imprimir",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "c7db177629a724bbb5cbac2aa7d09b43cd9474f4cf5d00d800a1c8a95ada6aef"
+    "sha256": "46f47c17dd29ecafd48fdc7ba17231abe61a2709cc50a04aa292142711d00e52"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "caee1a16aadbd7968a83c5a603e427ef35234ddb01e3df1bdc6a278d54a1fb19"
+    "sha256": "f2a12efb142f22e8719db5b47bd5b9f3797242ecb2ae8528969b64edbdb83287"
   }
 }
