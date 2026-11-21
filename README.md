@@ -6,7 +6,7 @@ Aplicativo para Windows que controla as **entradas** (vendas) e as **saídas** (
 busca, recibos, relatórios em PDF e planilhas do Excel geradas automaticamente. Tem dois modos, com dados
 separados: **🏢 Empresa** e **🏠 Familiar** (as finanças da casa).
 
-**Versão atual: 1.0.1** (20/11/2026): idiomas (Português, English, Español), sons e Sobre no botão Versão
+**Versão atual: 1.0.2** (20/11/2026): idiomas em tudo (relatórios, recibos, planilhas e Guia), um som para cada função, telas pequenas e aviso de atualização
 
 ## Download
 
