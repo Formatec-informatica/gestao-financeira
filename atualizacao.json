@@ -1,13 +1,13 @@
 {
-  "versao": "1.0.3",
+  "versao": "1.0.4",
   "data": "21/11/2026",
-  "notas": "Gestão Financeira 1.0.3\n- Usuários e login: administrador obrigatório e perfis (Administrador, Gerente, Vendedor/Caixa, Estoquista)\n- Rede da loja: computador principal e terminais, que continuam lançando sem conexão\n- Gestão Financeira com gráficos e resumos do dia, do mês e do ano, e comparativo entre datas\n- Vendas abrem em Entradas, botões numa linha e Atualizar cadastro no recibo de entrega\n- Incluir manualmente na Precificação e no Estoque, ícones coloridos e nome da empresa na impressão",
+  "notas": "Gestão Financeira 1.0.4\n- Janelas abrem no centro do programa e acompanham o programa ao mover, com ícones coloridos\n- Botão para instalar a atualização em Sobre e atualizações\n- Redes sociais numa linha, com o logo da Formatec no Site\n- Código de recuperação inteiro na tela, com botão Imprimir",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "6e29597b6a21399d3ebb15183b2eafa363590c9ee604afeeb2511d9d694ec755"
+    "sha256": "c7db177629a724bbb5cbac2aa7d09b43cd9474f4cf5d00d800a1c8a95ada6aef"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "1b8969f63bcffca1f8e5d95c20f831fe1f64037223b180ae4c24cfd6629f9c21"
+    "sha256": "caee1a16aadbd7968a83c5a603e427ef35234ddb01e3df1bdc6a278d54a1fb19"
   }
 }
