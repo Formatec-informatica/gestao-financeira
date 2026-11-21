@@ -1,13 +1,13 @@
 {
-  "versao": "1.0.5",
+  "versao": "1.0.6",
   "data": "21/11/2026",
-  "notas": "Gestão Financeira 1.0.5\n- Guia de uso: botão Salvar ou imprimir (o guia inteiro ou só um assunto)\n- Computador principal: fechar no X deixa o programa perto do relógio atendendo os terminais\n- Rede: clique para copiar o nome, os endereços (IP) e o código de conexão\n- Correção do erro ao entrar e ao lançar vendas; ícone do WhatsApp sem fundo branco",
+  "notas": "Gestão Financeira 1.0.6\n- Estoque: nova coluna ID com o número de cada produto ou serviço (o mesmo da Precificação)\n- A pesquisa do Estoque também encontra pelo ID",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "f94b089a9fcb6f5d1b251084c6554ec37d85c29ba14fd4adf5ce41780426cad8"
+    "sha256": "26b3c56676079946e9fd5306fa83ff01ce121bcbc5df9b745f87efead5568250"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "c81dcd27658628a7f98288b9e1516fe55074cb14a25833b0fdce89c5da07dd6d"
+    "sha256": "51a8b4082dae6fcbfaa4db98904b26dcb41e047d2219ed4a6ca0765366b15470"
   }
 }

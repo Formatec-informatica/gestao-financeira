@@ -6,7 +6,7 @@ Aplicativo para Windows que controla as **entradas** (vendas) e as **saídas** (
 busca, recibos, relatórios em PDF e planilhas do Excel geradas automaticamente. Tem dois modos, com dados
 separados: **🏢 Empresa** e **🏠 Familiar** (as finanças da casa).
 
-**Versão atual: 1.0.5** (21/11/2026): Guia de uso para salvar ou imprimir, computador principal perto do relógio ao fechar, clique para copiar na Rede e correção do erro ao entrar e ao lançar vendas
+**Versão atual: 1.0.6** (21/11/2026): Estoque com a coluna ID de cada produto ou serviço, e pesquisa pelo ID
 
 ## Download
 
