@@ -1,13 +1,13 @@
 {
-  "versao": "1.0.2",
-  "data": "20/11/2026",
-  "notas": "Gestão Financeira 1.0.2\n- Idiomas em tudo: relatórios, recibos, impressão, planilhas e Guia de uso em inglês e espanhol\n- Um som para cada função (caixa registradora nas vendas e baixas de contas)\n- Botões do topo ajustados para telas pequenas\n- Resumo das vendas numa linha, com o Pix alinhado\n- Aviso de atualização com as novidades e a pergunta Atualizar agora?",
+  "versao": "1.0.3",
+  "data": "21/11/2026",
+  "notas": "Gestão Financeira 1.0.3\n- Usuários e login: administrador obrigatório e perfis (Administrador, Gerente, Vendedor/Caixa, Estoquista)\n- Rede da loja: computador principal e terminais, que continuam lançando sem conexão\n- Gestão Financeira com gráficos e resumos do dia, do mês e do ano, e comparativo entre datas\n- Vendas abrem em Entradas, botões numa linha e Atualizar cadastro no recibo de entrega\n- Incluir manualmente na Precificação e no Estoque, ícones coloridos e nome da empresa na impressão",
   "instalador": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/Instalador_GestaoFinanceira.exe",
-    "sha256": "ced454353b2251e98f53efb129a0214b669c2fd26cd21bf860edbd1b5ae19889"
+    "sha256": "6e29597b6a21399d3ebb15183b2eafa363590c9ee604afeeb2511d9d694ec755"
   },
   "portatil": {
     "url": "https://raw.githubusercontent.com/Formatec-informatica/gestao-financeira/main/versao/GestaoFinanceira_Portatil.exe",
-    "sha256": "b1d141e379502d51767af61698f98faa180e1a0bf8c23ba96c9e82c3a106912e"
+    "sha256": "1b8969f63bcffca1f8e5d95c20f831fe1f64037223b180ae4c24cfd6629f9c21"
   }
 }
